@@ -1,9 +1,311 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36 Edg/129.0.0.0" version="26.2.14">
   <diagram name="第 1 页" id="Bvs3sLHYUcNwmKJKfoFg">
-    <mxGraphModel>
+    <mxGraphModel dx="1418" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="JiQtPQPipblQIwaOSoH1-1" value="步骤1: 菌群样本采集与预处理" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="357" y="20" width="640" height="540" as="geometry" />
+        </mxCell>
+        <mxCell id="JiQtPQPipblQIwaOSoH1-2" value="临床队列" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="JiQtPQPipblQIwaOSoH1-1">
+          <mxGeometry x="266" y="46" width="124" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="JiQtPQPipblQIwaOSoH1-3" value="样本采集" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="JiQtPQPipblQIwaOSoH1-1">
+          <mxGeometry x="266" y="175" width="124" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="JiQtPQPipblQIwaOSoH1-4" value="菌群分析" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="JiQtPQPipblQIwaOSoH1-1">
+          <mxGeometry x="266" y="304" width="124" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="JiQtPQPipblQIwaOSoH1-5" value="16S rRNA测序（菌群α/β多样性、差异菌属）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="JiQtPQPipblQIwaOSoH1-1">
+          <mxGeometry x="43" y="433" width="260" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="JiQtPQPipblQIwaOSoH1-6" value="宏基因组测序（KEGG功能注释→胆汁酸代谢基因筛选）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="JiQtPQPipblQIwaOSoH1-1">
+          <mxGeometry x="353" y="433" width="260" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="JiQtPQPipblQIwaOSoH1-7" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="JiQtPQPipblQIwaOSoH1-1" source="JiQtPQPipblQIwaOSoH1-2" target="JiQtPQPipblQIwaOSoH1-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JiQtPQPipblQIwaOSoH1-8" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="JiQtPQPipblQIwaOSoH1-1" source="JiQtPQPipblQIwaOSoH1-3" target="JiQtPQPipblQIwaOSoH1-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JiQtPQPipblQIwaOSoH1-9" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.97;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="JiQtPQPipblQIwaOSoH1-1" source="JiQtPQPipblQIwaOSoH1-4" target="JiQtPQPipblQIwaOSoH1-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="173" y="395" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JiQtPQPipblQIwaOSoH1-10" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.97;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="JiQtPQPipblQIwaOSoH1-1" source="JiQtPQPipblQIwaOSoH1-4" target="JiQtPQPipblQIwaOSoH1-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="483" y="395" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JiQtPQPipblQIwaOSoH1-11" value="步骤2: 人源菌群-C57BL/6小鼠模型" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="20" y="610" width="1314" height="459" as="geometry" />
+        </mxCell>
+        <mxCell id="JiQtPQPipblQIwaOSoH1-12" value="模型构建" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="JiQtPQPipblQIwaOSoH1-11">
+          <mxGeometry x="568" y="46" width="124" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="JiQtPQPipblQIwaOSoH1-13" value="实验组：灌胃患者菌群悬液(n=20)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="JiQtPQPipblQIwaOSoH1-11">
+          <mxGeometry x="43" y="175" width="260" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="JiQtPQPipblQIwaOSoH1-14" value="对照组：灌胃健康菌群悬液(n=20)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="JiQtPQPipblQIwaOSoH1-11">
+          <mxGeometry x="353" y="175" width="260" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="JiQtPQPipblQIwaOSoH1-15" value="空白组：PBS对照(n=10)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="JiQtPQPipblQIwaOSoH1-11">
+          <mxGeometry x="663" y="187" width="227" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="JiQtPQPipblQIwaOSoH1-16" value="定植验证" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="JiQtPQPipblQIwaOSoH1-11">
+          <mxGeometry x="940" y="187" width="124" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="JiQtPQPipblQIwaOSoH1-17" value="动态监测：qPCR检测供体标志基因(7α-脱羟酶)、16S时序分析" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="JiQtPQPipblQIwaOSoH1-11">
+          <mxGeometry x="458" y="328" width="260" height="102" as="geometry" />
+        </mxCell>
+        <mxCell id="JiQtPQPipblQIwaOSoH1-18" value="功能验证：宏基因组(胆汁酸代谢基因丰度)+LC-MS/MS(DCA/LCA定量)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="JiQtPQPipblQIwaOSoH1-11">
+          <mxGeometry x="1027" y="328" width="260" height="102" as="geometry" />
+        </mxCell>
+        <mxCell id="JiQtPQPipblQIwaOSoH1-19" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.65;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="JiQtPQPipblQIwaOSoH1-11" source="JiQtPQPipblQIwaOSoH1-12" target="JiQtPQPipblQIwaOSoH1-13">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="173" y="137" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JiQtPQPipblQIwaOSoH1-20" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="JiQtPQPipblQIwaOSoH1-11" source="JiQtPQPipblQIwaOSoH1-12" target="JiQtPQPipblQIwaOSoH1-14">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="483" y="137" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JiQtPQPipblQIwaOSoH1-21" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.99;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="JiQtPQPipblQIwaOSoH1-11" source="JiQtPQPipblQIwaOSoH1-12" target="JiQtPQPipblQIwaOSoH1-15">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="777" y="137" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JiQtPQPipblQIwaOSoH1-22" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.69;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="JiQtPQPipblQIwaOSoH1-11" source="JiQtPQPipblQIwaOSoH1-12" target="JiQtPQPipblQIwaOSoH1-16">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1002" y="137" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JiQtPQPipblQIwaOSoH1-23" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.7;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="JiQtPQPipblQIwaOSoH1-11" source="JiQtPQPipblQIwaOSoH1-16" target="JiQtPQPipblQIwaOSoH1-17">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="588" y="290" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JiQtPQPipblQIwaOSoH1-24" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.94;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="JiQtPQPipblQIwaOSoH1-11" source="JiQtPQPipblQIwaOSoH1-16" target="JiQtPQPipblQIwaOSoH1-18">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1157" y="290" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JiQtPQPipblQIwaOSoH1-25" value="步骤3: 宿主代谢与病理表型分析" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="133" y="1119" width="1089" height="483" as="geometry" />
+        </mxCell>
+        <mxCell id="JiQtPQPipblQIwaOSoH1-26" value="代谢物检测" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="JiQtPQPipblQIwaOSoH1-25">
+          <mxGeometry x="292" y="46" width="140" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="JiQtPQPipblQIwaOSoH1-27" value="胆汁分析：HPLC(CSI计算)+LC-MS/MS(DCA/CA比值)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="JiQtPQPipblQIwaOSoH1-25">
+          <mxGeometry x="43" y="175" width="260" height="102" as="geometry" />
+        </mxCell>
+        <mxCell id="JiQtPQPipblQIwaOSoH1-28" value="血清/肝脏：UPLC-QTOF-MS(脂质/SCFAs)+qRT-PCR(HMGCR/CYP7A1/ABCG5/G8)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="JiQtPQPipblQIwaOSoH1-25">
+          <mxGeometry x="353" y="175" width="297" height="102" as="geometry" />
+        </mxCell>
+        <mxCell id="JiQtPQPipblQIwaOSoH1-29" value="病理评估" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="JiQtPQPipblQIwaOSoH1-25">
+          <mxGeometry x="700" y="199" width="124" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="JiQtPQPipblQIwaOSoH1-30" value="胆囊结石：发生率统计+偏振光显微镜(CMC)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="JiQtPQPipblQIwaOSoH1-25">
+          <mxGeometry x="182" y="364" width="260" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="JiQtPQPipblQIwaOSoH1-31" value="炎症损伤：HE染色(中性粒细胞评分)+MUC5AC免疫组化" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="JiQtPQPipblQIwaOSoH1-25">
+          <mxGeometry x="492" y="352" width="260" height="102" as="geometry" />
+        </mxCell>
+        <mxCell id="JiQtPQPipblQIwaOSoH1-32" value="系统指标：ELISA(LPS/IL-6/TNF-α)+肠道屏障免疫荧光(ZO-1/Occludin)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="JiQtPQPipblQIwaOSoH1-25">
+          <mxGeometry x="802" y="352" width="260" height="102" as="geometry" />
+        </mxCell>
+        <mxCell id="JiQtPQPipblQIwaOSoH1-33" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.93;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="JiQtPQPipblQIwaOSoH1-25" source="JiQtPQPipblQIwaOSoH1-26" target="JiQtPQPipblQIwaOSoH1-27">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="173" y="137" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JiQtPQPipblQIwaOSoH1-34" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.92;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="JiQtPQPipblQIwaOSoH1-25" source="JiQtPQPipblQIwaOSoH1-26" target="JiQtPQPipblQIwaOSoH1-28">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="501" y="137" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JiQtPQPipblQIwaOSoH1-35" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.7;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="JiQtPQPipblQIwaOSoH1-25" source="JiQtPQPipblQIwaOSoH1-26" target="JiQtPQPipblQIwaOSoH1-29">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="762" y="137" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JiQtPQPipblQIwaOSoH1-36" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.72;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="JiQtPQPipblQIwaOSoH1-25" source="JiQtPQPipblQIwaOSoH1-29" target="JiQtPQPipblQIwaOSoH1-30">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="312" y="314" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JiQtPQPipblQIwaOSoH1-37" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.15;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="JiQtPQPipblQIwaOSoH1-25" source="JiQtPQPipblQIwaOSoH1-29" target="JiQtPQPipblQIwaOSoH1-31">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="622" y="314" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JiQtPQPipblQIwaOSoH1-38" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.92;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="JiQtPQPipblQIwaOSoH1-25" source="JiQtPQPipblQIwaOSoH1-29" target="JiQtPQPipblQIwaOSoH1-32">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="932" y="314" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JiQtPQPipblQIwaOSoH1-39" value="步骤4: 多组学整合机制解析" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="187" y="1652" width="980" height="435" as="geometry" />
+        </mxCell>
+        <mxCell id="JiQtPQPipblQIwaOSoH1-40" value="宏基因组-代谢组关联" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="JiQtPQPipblQIwaOSoH1-39">
+          <mxGeometry x="271" y="46" width="210" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="JiQtPQPipblQIwaOSoH1-41" value="KEGG通路富集(菌群基因-代谢物关联)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="JiQtPQPipblQIwaOSoH1-39">
+          <mxGeometry x="43" y="175" width="260" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="JiQtPQPipblQIwaOSoH1-42" value="Spearman网络(|r|&gt;0.6，核心节点筛选)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="JiQtPQPipblQIwaOSoH1-39">
+          <mxGeometry x="353" y="175" width="260" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="JiQtPQPipblQIwaOSoH1-43" value="单细胞转录组" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="JiQtPQPipblQIwaOSoH1-39">
+          <mxGeometry x="663" y="187" width="156" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="JiQtPQPipblQIwaOSoH1-44" value="10x Genomics建库→UMAP分群(EpCAM+/CD45+亚群)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="JiQtPQPipblQIwaOSoH1-39">
+          <mxGeometry x="172" y="328" width="260" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="JiQtPQPipblQIwaOSoH1-45" value="差异通路：MUC5AC分泌、NF-κB炎症、PPARγ脂代谢" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="JiQtPQPipblQIwaOSoH1-39">
+          <mxGeometry x="503" y="328" width="260" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="JiQtPQPipblQIwaOSoH1-46" value="跨组学整合" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="JiQtPQPipblQIwaOSoH1-39">
+          <mxGeometry x="813" y="340" width="140" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="JiQtPQPipblQIwaOSoH1-47" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.09;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="JiQtPQPipblQIwaOSoH1-39" source="JiQtPQPipblQIwaOSoH1-40" target="JiQtPQPipblQIwaOSoH1-41">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="173" y="137" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JiQtPQPipblQIwaOSoH1-48" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.71;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="JiQtPQPipblQIwaOSoH1-39" source="JiQtPQPipblQIwaOSoH1-40" target="JiQtPQPipblQIwaOSoH1-42">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="483" y="137" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JiQtPQPipblQIwaOSoH1-49" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.83;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="JiQtPQPipblQIwaOSoH1-39" source="JiQtPQPipblQIwaOSoH1-40" target="JiQtPQPipblQIwaOSoH1-43">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="741" y="137" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JiQtPQPipblQIwaOSoH1-50" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.74;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="JiQtPQPipblQIwaOSoH1-39" source="JiQtPQPipblQIwaOSoH1-43" target="JiQtPQPipblQIwaOSoH1-44">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="302" y="290" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JiQtPQPipblQIwaOSoH1-51" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.26;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="JiQtPQPipblQIwaOSoH1-39" source="JiQtPQPipblQIwaOSoH1-43" target="JiQtPQPipblQIwaOSoH1-45">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="633" y="290" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JiQtPQPipblQIwaOSoH1-52" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.82;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="JiQtPQPipblQIwaOSoH1-39" source="JiQtPQPipblQIwaOSoH1-43" target="JiQtPQPipblQIwaOSoH1-46">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="883" y="290" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JiQtPQPipblQIwaOSoH1-53" value="步骤5: 关键菌株与代谢物验证" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="232" y="2137" width="890" height="483" as="geometry" />
+        </mxCell>
+        <mxCell id="JiQtPQPipblQIwaOSoH1-54" value="致病菌验证" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="JiQtPQPipblQIwaOSoH1-53">
+          <mxGeometry x="413" y="46" width="140" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="JiQtPQPipblQIwaOSoH1-55" value="Clostridium scindens分离→无菌小鼠定植(DCA生成+结石率)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="JiQtPQPipblQIwaOSoH1-53">
+          <mxGeometry x="43" y="175" width="260" height="102" as="geometry" />
+        </mxCell>
+        <mxCell id="JiQtPQPipblQIwaOSoH1-56" value="DCA回补实验：无菌小鼠灌胃(IL-6/CMC形成)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="JiQtPQPipblQIwaOSoH1-53">
+          <mxGeometry x="353" y="187" width="260" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="JiQtPQPipblQIwaOSoH1-57" value="益生菌干预" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="JiQtPQPipblQIwaOSoH1-53">
+          <mxGeometry x="663" y="199" width="140" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="JiQtPQPipblQIwaOSoH1-58" value="Faecalibacterium prausnitzii灌胃→CSI指数↓+结石抑制" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="JiQtPQPipblQIwaOSoH1-53">
+          <mxGeometry x="603" y="352" width="260" height="102" as="geometry" />
+        </mxCell>
+        <mxCell id="JiQtPQPipblQIwaOSoH1-59" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.76;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="JiQtPQPipblQIwaOSoH1-53" source="JiQtPQPipblQIwaOSoH1-54" target="JiQtPQPipblQIwaOSoH1-55">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="173" y="137" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JiQtPQPipblQIwaOSoH1-60" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="JiQtPQPipblQIwaOSoH1-53" source="JiQtPQPipblQIwaOSoH1-54" target="JiQtPQPipblQIwaOSoH1-56">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JiQtPQPipblQIwaOSoH1-61" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.83;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="JiQtPQPipblQIwaOSoH1-53" source="JiQtPQPipblQIwaOSoH1-54" target="JiQtPQPipblQIwaOSoH1-57">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="733" y="137" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JiQtPQPipblQIwaOSoH1-62" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="JiQtPQPipblQIwaOSoH1-53" source="JiQtPQPipblQIwaOSoH1-57" target="JiQtPQPipblQIwaOSoH1-58">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JiQtPQPipblQIwaOSoH1-63" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="JiQtPQPipblQIwaOSoH1-1" target="JiQtPQPipblQIwaOSoH1-11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JiQtPQPipblQIwaOSoH1-64" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="JiQtPQPipblQIwaOSoH1-11" target="JiQtPQPipblQIwaOSoH1-25">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JiQtPQPipblQIwaOSoH1-65" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="JiQtPQPipblQIwaOSoH1-25" target="JiQtPQPipblQIwaOSoH1-39">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JiQtPQPipblQIwaOSoH1-66" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="JiQtPQPipblQIwaOSoH1-39" target="JiQtPQPipblQIwaOSoH1-53">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
