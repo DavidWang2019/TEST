@@ -1,9 +1,60 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36 Edg/129.0.0.0" version="26.2.14">
   <diagram name="第 1 页" id="D5vqgf9NQnw3SVh4grZm">
-    <mxGraphModel>
+    <mxGraphModel dx="2245" dy="1931" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="1zTrpCBGBP8Pn1f129eo-1" value="关键菌株与代谢物功能验证" style="whiteSpace=wrap;strokeWidth=2;fontSize=21;" vertex="1" parent="1">
+          <mxGeometry y="168" width="252" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="1zTrpCBGBP8Pn1f129eo-2" value="关键菌株分离与定植" style="whiteSpace=wrap;strokeWidth=2;fontSize=21;" vertex="1" parent="1">
+          <mxGeometry x="352" y="84" width="204" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="1zTrpCBGBP8Pn1f129eo-3" value="益生菌干预实验" style="whiteSpace=wrap;strokeWidth=2;fontSize=21;" vertex="1" parent="1">
+          <mxGeometry x="368" y="168" width="172" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="1zTrpCBGBP8Pn1f129eo-4" value="代谢物回补实验" style="whiteSpace=wrap;strokeWidth=2;fontSize=21;" vertex="1" parent="1">
+          <mxGeometry x="368" y="252" width="172" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="1zTrpCBGBP8Pn1f129eo-5" value="菌株分离" style="whiteSpace=wrap;strokeWidth=2;fontSize=21;" vertex="1" parent="1">
+          <mxGeometry x="656" width="124" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="1zTrpCBGBP8Pn1f129eo-6" value="单菌定植" style="whiteSpace=wrap;strokeWidth=2;fontSize=21;" vertex="1" parent="1">
+          <mxGeometry x="656" y="84" width="124" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="1zTrpCBGBP8Pn1f129eo-7" value="菌株选择" style="whiteSpace=wrap;strokeWidth=2;fontSize=21;" vertex="1" parent="1">
+          <mxGeometry x="656" y="168" width="124" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="1zTrpCBGBP8Pn1f129eo-8" value="干预方案" style="whiteSpace=wrap;strokeWidth=2;fontSize=21;" vertex="1" parent="1">
+          <mxGeometry x="656" y="252" width="124" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="1zTrpCBGBP8Pn1f129eo-9" value="DCA干预" style="whiteSpace=wrap;strokeWidth=2;fontSize=21;" vertex="1" parent="1">
+          <mxGeometry x="657.5" y="336" width="121" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="1zTrpCBGBP8Pn1f129eo-10" value="" style="startArrow=none;endArrow=block;exitX=0;exitY=0.85;entryX=0.5;entryY=0;rounded=0;orthogonal=1;fontSize=21;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="1zTrpCBGBP8Pn1f129eo-1" target="1zTrpCBGBP8Pn1f129eo-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1zTrpCBGBP8Pn1f129eo-11" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;orthogonal=1;fontSize=21;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="1zTrpCBGBP8Pn1f129eo-1" target="1zTrpCBGBP8Pn1f129eo-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1zTrpCBGBP8Pn1f129eo-12" value="" style="startArrow=none;endArrow=block;exitX=1;exitY=0.93;entryX=0.5;entryY=0;rounded=0;orthogonal=1;fontSize=21;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="1zTrpCBGBP8Pn1f129eo-1" target="1zTrpCBGBP8Pn1f129eo-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1zTrpCBGBP8Pn1f129eo-13" value="" style="startArrow=none;endArrow=block;exitX=0.28;exitY=1;entryX=0.5;entryY=0;rounded=0;orthogonal=1;fontSize=21;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="1zTrpCBGBP8Pn1f129eo-2" target="1zTrpCBGBP8Pn1f129eo-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1zTrpCBGBP8Pn1f129eo-14" value="" style="startArrow=none;endArrow=block;exitX=0.72;exitY=1;entryX=0.5;entryY=0;rounded=0;orthogonal=1;fontSize=21;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="1zTrpCBGBP8Pn1f129eo-2" target="1zTrpCBGBP8Pn1f129eo-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1zTrpCBGBP8Pn1f129eo-15" value="" style="startArrow=none;endArrow=block;exitX=0.24;exitY=1;entryX=0.5;entryY=0;rounded=0;orthogonal=1;fontSize=21;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="1zTrpCBGBP8Pn1f129eo-3" target="1zTrpCBGBP8Pn1f129eo-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1zTrpCBGBP8Pn1f129eo-16" value="" style="startArrow=none;endArrow=block;exitX=0.76;exitY=1;entryX=0.5;entryY=0;rounded=0;orthogonal=1;fontSize=21;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="1zTrpCBGBP8Pn1f129eo-3" target="1zTrpCBGBP8Pn1f129eo-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1zTrpCBGBP8Pn1f129eo-17" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;orthogonal=1;fontSize=21;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="1zTrpCBGBP8Pn1f129eo-4" target="1zTrpCBGBP8Pn1f129eo-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
