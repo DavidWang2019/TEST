@@ -1,127 +1,83 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36 Edg/129.0.0.0" version="26.2.14">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1418" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2245" dy="1931" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
-        <mxCell id="ZpHfM1MKlGrj6K8MIZSY-50" value="宿主代谢物与病理表型动态分析" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="923" y="20" width="260" height="78" as="geometry" />
+        <mxCell id="ZpHfM1MKlGrj6K8MIZSY-50" value="宿主代谢物与病理表型动态分析" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry y="282.51851851851853" width="260" height="78" as="geometry" />
         </mxCell>
-        <mxCell id="ZpHfM1MKlGrj6K8MIZSY-51" value="胆汁代谢物检测" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="413" y="148" width="172" height="54" as="geometry" />
+        <mxCell id="ZpHfM1MKlGrj6K8MIZSY-51" value="胆汁代谢物检测" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="376" y="136.62962962962962" width="172" height="54" as="geometry" />
         </mxCell>
-        <mxCell id="ZpHfM1MKlGrj6K8MIZSY-52" value="血清与肝脏代谢组学" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="951" y="148" width="204" height="54" as="geometry" />
+        <mxCell id="ZpHfM1MKlGrj6K8MIZSY-52" value="血清与肝脏代谢组学" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="360" y="294.51851851851853" width="204" height="54" as="geometry" />
         </mxCell>
-        <mxCell id="ZpHfM1MKlGrj6K8MIZSY-53" value="病理表型评估" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1605" y="148" width="156" height="54" as="geometry" />
+        <mxCell id="ZpHfM1MKlGrj6K8MIZSY-53" value="病理表型评估" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="384" y="496.5333333333333" width="156" height="54" as="geometry" />
         </mxCell>
-        <mxCell id="ZpHfM1MKlGrj6K8MIZSY-54" value="样本采集" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="220" y="252" width="124" height="54" as="geometry" />
+        <mxCell id="ZpHfM1MKlGrj6K8MIZSY-54" value="样本采集" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="707" width="124" height="54" as="geometry" />
         </mxCell>
-        <mxCell id="ZpHfM1MKlGrj6K8MIZSY-55" value="胆固醇饱和度（CSI）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="394" y="252" width="210" height="54" as="geometry" />
+        <mxCell id="ZpHfM1MKlGrj6K8MIZSY-55" value="胆固醇饱和度（CSI）" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="664" y="84" width="210" height="54" as="geometry" />
         </mxCell>
-        <mxCell id="ZpHfM1MKlGrj6K8MIZSY-56" value="胆汁酸谱分析" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="654" y="252" width="156" height="54" as="geometry" />
+        <mxCell id="ZpHfM1MKlGrj6K8MIZSY-56" value="胆汁酸谱分析" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="691" y="168" width="156" height="54" as="geometry" />
         </mxCell>
-        <mxCell id="ZpHfM1MKlGrj6K8MIZSY-57" value="非靶向代谢组学" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="860" y="252" width="172" height="54" as="geometry" />
+        <mxCell id="ZpHfM1MKlGrj6K8MIZSY-57" value="非靶向代谢组学" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="683" y="252" width="172" height="54" as="geometry" />
         </mxCell>
-        <mxCell id="ZpHfM1MKlGrj6K8MIZSY-58" value="肝脏基因表达" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1082" y="252" width="156" height="54" as="geometry" />
+        <mxCell id="ZpHfM1MKlGrj6K8MIZSY-58" value="肝脏基因表达" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="691" y="336" width="156" height="54" as="geometry" />
         </mxCell>
-        <mxCell id="ZpHfM1MKlGrj6K8MIZSY-59" value="胆囊结石形成" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1288" y="252" width="156" height="54" as="geometry" />
+        <mxCell id="ZpHfM1MKlGrj6K8MIZSY-59" value="胆囊结石形成" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="691" y="420" width="156" height="54" as="geometry" />
         </mxCell>
-        <mxCell id="ZpHfM1MKlGrj6K8MIZSY-60" value="炎症与黏膜损伤" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1494" y="252" width="172" height="54" as="geometry" />
+        <mxCell id="ZpHfM1MKlGrj6K8MIZSY-60" value="炎症与黏膜损伤" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="683" y="504" width="172" height="54" as="geometry" />
         </mxCell>
-        <mxCell id="ZpHfM1MKlGrj6K8MIZSY-61" value="系统性炎症" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1716" y="252" width="140" height="54" as="geometry" />
+        <mxCell id="ZpHfM1MKlGrj6K8MIZSY-61" value="系统性炎症" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="699" y="588" width="140" height="54" as="geometry" />
         </mxCell>
-        <mxCell id="ZpHfM1MKlGrj6K8MIZSY-62" value="肠道屏障完整性" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1906" y="252" width="172" height="54" as="geometry" />
+        <mxCell id="ZpHfM1MKlGrj6K8MIZSY-62" value="肠道屏障完整性" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="683" y="672" width="172" height="54" as="geometry" />
         </mxCell>
-        <mxCell id="ZpHfM1MKlGrj6K8MIZSY-63" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.69;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ZpHfM1MKlGrj6K8MIZSY-50" target="ZpHfM1MKlGrj6K8MIZSY-51">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="499" y="123" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="ZpHfM1MKlGrj6K8MIZSY-63" value="" style="startArrow=none;endArrow=block;exitX=0;exitY=0.69;entryX=0.5;entryY=0;rounded=0;orthogonal=1;fontSize=20;edgeStyle=orthogonalEdgeStyle;elbow=vertical;strokeWidth=2;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ZpHfM1MKlGrj6K8MIZSY-50" target="ZpHfM1MKlGrj6K8MIZSY-51">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ZpHfM1MKlGrj6K8MIZSY-64" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ZpHfM1MKlGrj6K8MIZSY-50" target="ZpHfM1MKlGrj6K8MIZSY-52">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
+        <mxCell id="ZpHfM1MKlGrj6K8MIZSY-64" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;orthogonal=1;fontSize=20;edgeStyle=orthogonalEdgeStyle;elbow=vertical;strokeWidth=2;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ZpHfM1MKlGrj6K8MIZSY-50" target="ZpHfM1MKlGrj6K8MIZSY-52">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ZpHfM1MKlGrj6K8MIZSY-65" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.67;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ZpHfM1MKlGrj6K8MIZSY-50" target="ZpHfM1MKlGrj6K8MIZSY-53">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1683" y="123" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="ZpHfM1MKlGrj6K8MIZSY-65" value="" style="startArrow=none;endArrow=block;exitX=1;exitY=0.67;entryX=0.5;entryY=0;rounded=0;orthogonal=1;fontSize=20;edgeStyle=orthogonalEdgeStyle;elbow=vertical;strokeWidth=2;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ZpHfM1MKlGrj6K8MIZSY-50" target="ZpHfM1MKlGrj6K8MIZSY-53">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ZpHfM1MKlGrj6K8MIZSY-66" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.88;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ZpHfM1MKlGrj6K8MIZSY-51" target="ZpHfM1MKlGrj6K8MIZSY-54">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="282" y="227" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="ZpHfM1MKlGrj6K8MIZSY-66" value="" style="startArrow=none;endArrow=block;exitX=0;exitY=0.88;entryX=0.5;entryY=0;rounded=0;orthogonal=1;fontSize=20;edgeStyle=orthogonalEdgeStyle;elbow=vertical;strokeWidth=2;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ZpHfM1MKlGrj6K8MIZSY-51" target="ZpHfM1MKlGrj6K8MIZSY-54">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ZpHfM1MKlGrj6K8MIZSY-67" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ZpHfM1MKlGrj6K8MIZSY-51" target="ZpHfM1MKlGrj6K8MIZSY-55">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
+        <mxCell id="ZpHfM1MKlGrj6K8MIZSY-67" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;orthogonal=1;fontSize=20;edgeStyle=orthogonalEdgeStyle;elbow=vertical;strokeWidth=2;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ZpHfM1MKlGrj6K8MIZSY-51" target="ZpHfM1MKlGrj6K8MIZSY-55">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ZpHfM1MKlGrj6K8MIZSY-68" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.86;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ZpHfM1MKlGrj6K8MIZSY-51" target="ZpHfM1MKlGrj6K8MIZSY-56">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="732" y="227" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="ZpHfM1MKlGrj6K8MIZSY-68" value="" style="startArrow=none;endArrow=block;exitX=1;exitY=0.86;entryX=0.5;entryY=0;rounded=0;orthogonal=1;fontSize=20;edgeStyle=orthogonalEdgeStyle;elbow=vertical;strokeWidth=2;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ZpHfM1MKlGrj6K8MIZSY-51" target="ZpHfM1MKlGrj6K8MIZSY-56">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ZpHfM1MKlGrj6K8MIZSY-69" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.23;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ZpHfM1MKlGrj6K8MIZSY-52" target="ZpHfM1MKlGrj6K8MIZSY-57">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="946" y="227" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="ZpHfM1MKlGrj6K8MIZSY-69" value="" style="startArrow=none;endArrow=block;exitX=0.23;exitY=1;entryX=0.5;entryY=0;rounded=0;orthogonal=1;fontSize=20;edgeStyle=orthogonalEdgeStyle;elbow=vertical;strokeWidth=2;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ZpHfM1MKlGrj6K8MIZSY-52" target="ZpHfM1MKlGrj6K8MIZSY-57">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ZpHfM1MKlGrj6K8MIZSY-70" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.77;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ZpHfM1MKlGrj6K8MIZSY-52" target="ZpHfM1MKlGrj6K8MIZSY-58">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1160" y="227" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="ZpHfM1MKlGrj6K8MIZSY-70" value="" style="startArrow=none;endArrow=block;exitX=0.77;exitY=1;entryX=0.5;entryY=0;rounded=0;orthogonal=1;fontSize=20;edgeStyle=orthogonalEdgeStyle;elbow=vertical;strokeWidth=2;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ZpHfM1MKlGrj6K8MIZSY-52" target="ZpHfM1MKlGrj6K8MIZSY-58">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ZpHfM1MKlGrj6K8MIZSY-71" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.74;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ZpHfM1MKlGrj6K8MIZSY-53" target="ZpHfM1MKlGrj6K8MIZSY-59">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1366" y="227" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="ZpHfM1MKlGrj6K8MIZSY-71" value="" style="startArrow=none;endArrow=block;exitX=0;exitY=0.74;entryX=0.5;entryY=0;rounded=0;orthogonal=1;fontSize=20;edgeStyle=orthogonalEdgeStyle;elbow=vertical;strokeWidth=2;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ZpHfM1MKlGrj6K8MIZSY-53" target="ZpHfM1MKlGrj6K8MIZSY-59">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ZpHfM1MKlGrj6K8MIZSY-72" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.16;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ZpHfM1MKlGrj6K8MIZSY-53" target="ZpHfM1MKlGrj6K8MIZSY-60">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1580" y="227" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="ZpHfM1MKlGrj6K8MIZSY-72" value="" style="startArrow=none;endArrow=block;exitX=0.16;exitY=1;entryX=0.5;entryY=0;rounded=0;orthogonal=1;fontSize=20;edgeStyle=orthogonalEdgeStyle;elbow=vertical;strokeWidth=2;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ZpHfM1MKlGrj6K8MIZSY-53" target="ZpHfM1MKlGrj6K8MIZSY-60">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ZpHfM1MKlGrj6K8MIZSY-73" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.84;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ZpHfM1MKlGrj6K8MIZSY-53" target="ZpHfM1MKlGrj6K8MIZSY-61">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1786" y="227" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="ZpHfM1MKlGrj6K8MIZSY-73" value="" style="startArrow=none;endArrow=block;exitX=0.84;exitY=1;entryX=0.5;entryY=0;rounded=0;orthogonal=1;fontSize=20;edgeStyle=orthogonalEdgeStyle;elbow=vertical;strokeWidth=2;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ZpHfM1MKlGrj6K8MIZSY-53" target="ZpHfM1MKlGrj6K8MIZSY-61">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ZpHfM1MKlGrj6K8MIZSY-74" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.74;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ZpHfM1MKlGrj6K8MIZSY-53" target="ZpHfM1MKlGrj6K8MIZSY-62">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1992" y="227" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="ZpHfM1MKlGrj6K8MIZSY-74" value="" style="startArrow=none;endArrow=block;exitX=1;exitY=0.74;entryX=0.5;entryY=0;rounded=0;orthogonal=1;fontSize=20;edgeStyle=orthogonalEdgeStyle;elbow=vertical;strokeWidth=2;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ZpHfM1MKlGrj6K8MIZSY-53" target="ZpHfM1MKlGrj6K8MIZSY-62">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
