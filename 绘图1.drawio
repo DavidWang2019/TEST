@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36 Edg/129.0.0.0" version="26.2.14">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1223" dy="898" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1418" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -44,6 +44,88 @@
         </mxCell>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-12" value="Replace Bulb" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="320" y="310" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UxKD9DWt1Z58ymgm7l88-0" value="阶段1: 菌群定植评估" style="whiteSpace=wrap;strokeWidth=2;fontSize=13;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="160" y="500" width="207" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="UxKD9DWt1Z58ymgm7l88-1" value="阶段2: 代谢组学分析" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="160" y="617" width="207" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="UxKD9DWt1Z58ymgm7l88-2" value="阶段3: 动态干预验证" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="160" y="744" width="207" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="UxKD9DWt1Z58ymgm7l88-3" value="机制解析与转化" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="178" y="871" width="172" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="UxKD9DWt1Z58ymgm7l88-4" value="16S+宏基因组" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="UxKD9DWt1Z58ymgm7l88-0" target="UxKD9DWt1Z58ymgm7l88-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UxKD9DWt1Z58ymgm7l88-5" value="LC-MS/MS+空间代谢组" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="UxKD9DWt1Z58ymgm7l88-1" target="UxKD9DWt1Z58ymgm7l88-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UxKD9DWt1Z58ymgm7l88-6" value="益生菌/胆汁酸补充" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="UxKD9DWt1Z58ymgm7l88-2" target="UxKD9DWt1Z58ymgm7l88-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UxKD9DWt1Z58ymgm7l88-7" value="16S rRNA测序" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="171" y="950" width="156" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="UxKD9DWt1Z58ymgm7l88-8" value="菌群结构" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="404" y="950" width="124" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="UxKD9DWt1Z58ymgm7l88-9" value="宏基因组测序" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="171" y="1054" width="156" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="UxKD9DWt1Z58ymgm7l88-10" value="功能基因baiH" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="388" y="1054" width="156" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="UxKD9DWt1Z58ymgm7l88-11" value="LC-MS/MS代谢组" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="160" y="1158" width="178" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="UxKD9DWt1Z58ymgm7l88-12" value="胆汁酸/SCFAs" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="388" y="1158" width="156" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="UxKD9DWt1Z58ymgm7l88-13" value="KEGG通路富集" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="594" y="1054" width="163" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="UxKD9DWt1Z58ymgm7l88-14" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="UxKD9DWt1Z58ymgm7l88-7" target="UxKD9DWt1Z58ymgm7l88-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UxKD9DWt1Z58ymgm7l88-15" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="UxKD9DWt1Z58ymgm7l88-9" target="UxKD9DWt1Z58ymgm7l88-10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UxKD9DWt1Z58ymgm7l88-16" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="UxKD9DWt1Z58ymgm7l88-11" target="UxKD9DWt1Z58ymgm7l88-12">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UxKD9DWt1Z58ymgm7l88-17" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0.33;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="UxKD9DWt1Z58ymgm7l88-8" target="UxKD9DWt1Z58ymgm7l88-13">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="569" y="977" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UxKD9DWt1Z58ymgm7l88-18" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="UxKD9DWt1Z58ymgm7l88-10" target="UxKD9DWt1Z58ymgm7l88-13">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UxKD9DWt1Z58ymgm7l88-19" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0.33;entryY=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="UxKD9DWt1Z58ymgm7l88-12" target="UxKD9DWt1Z58ymgm7l88-13">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="569" y="1185" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
