@@ -1,9 +1,66 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36 Edg/129.0.0.0" version="26.2.14">
   <diagram name="第 1 页" id="Mh5Mfn0W7jNBa9Apmi7j">
-    <mxGraphModel>
+    <mxGraphModel dx="2245" dy="1931" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="l-IGr21ZMGLG-8YQM3oT-1" value="菌群样本采集与预处理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry y="210" width="220" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="l-IGr21ZMGLG-8YQM3oT-2" value="样本来源" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="336" y="98" width="124" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="l-IGr21ZMGLG-8YQM3oT-3" value="样本处理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="336" y="210" width="124" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="l-IGr21ZMGLG-8YQM3oT-4" value="菌群特征分析" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="320" y="322" width="156" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="l-IGr21ZMGLG-8YQM3oT-5" value="患者组" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="600" width="108" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="l-IGr21ZMGLG-8YQM3oT-6" value="对照组" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="600" y="84" width="108" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="l-IGr21ZMGLG-8YQM3oT-7" value="粪便样本采集" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="576" y="168" width="156" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="l-IGr21ZMGLG-8YQM3oT-8" value="菌群悬液制备" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="576" y="252" width="156" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="l-IGr21ZMGLG-8YQM3oT-9" value="16S rRNA测序" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="576" y="336" width="156" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="l-IGr21ZMGLG-8YQM3oT-10" value="宏基因组测序" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="576" y="420" width="156" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="l-IGr21ZMGLG-8YQM3oT-11" value="" style="startArrow=none;endArrow=block;exitX=0;exitY=0.79;entryX=0.5;entryY=0;rounded=0;orthogonal=1;edgeStyle=orthogonalEdgeStyle;strokeWidth=1;fontSize=18;" edge="1" parent="1" source="l-IGr21ZMGLG-8YQM3oT-1" target="l-IGr21ZMGLG-8YQM3oT-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="l-IGr21ZMGLG-8YQM3oT-12" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;orthogonal=1;edgeStyle=orthogonalEdgeStyle;strokeWidth=1;fontSize=18;" edge="1" parent="1" source="l-IGr21ZMGLG-8YQM3oT-1" target="l-IGr21ZMGLG-8YQM3oT-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="l-IGr21ZMGLG-8YQM3oT-13" value="" style="startArrow=none;endArrow=block;exitX=1;exitY=0.76;entryX=0.5;entryY=0;rounded=0;orthogonal=1;edgeStyle=orthogonalEdgeStyle;strokeWidth=1;fontSize=18;" edge="1" parent="1" source="l-IGr21ZMGLG-8YQM3oT-1" target="l-IGr21ZMGLG-8YQM3oT-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="l-IGr21ZMGLG-8YQM3oT-14" value="" style="startArrow=none;endArrow=block;exitX=0.17;exitY=1;entryX=0.5;entryY=0;rounded=0;orthogonal=1;edgeStyle=orthogonalEdgeStyle;strokeWidth=1;fontSize=18;" edge="1" parent="1" source="l-IGr21ZMGLG-8YQM3oT-2" target="l-IGr21ZMGLG-8YQM3oT-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="l-IGr21ZMGLG-8YQM3oT-15" value="" style="startArrow=none;endArrow=block;exitX=0.83;exitY=1;entryX=0.5;entryY=0;rounded=0;orthogonal=1;edgeStyle=orthogonalEdgeStyle;strokeWidth=1;fontSize=18;" edge="1" parent="1" source="l-IGr21ZMGLG-8YQM3oT-2" target="l-IGr21ZMGLG-8YQM3oT-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="l-IGr21ZMGLG-8YQM3oT-16" value="" style="startArrow=none;endArrow=block;exitX=0.07;exitY=1;entryX=0.5;entryY=0;rounded=0;orthogonal=1;edgeStyle=orthogonalEdgeStyle;strokeWidth=1;fontSize=18;" edge="1" parent="1" source="l-IGr21ZMGLG-8YQM3oT-3" target="l-IGr21ZMGLG-8YQM3oT-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="l-IGr21ZMGLG-8YQM3oT-17" value="" style="startArrow=none;endArrow=block;exitX=0.93;exitY=1;entryX=0.5;entryY=0;rounded=0;orthogonal=1;edgeStyle=orthogonalEdgeStyle;strokeWidth=1;fontSize=18;" edge="1" parent="1" source="l-IGr21ZMGLG-8YQM3oT-3" target="l-IGr21ZMGLG-8YQM3oT-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="l-IGr21ZMGLG-8YQM3oT-18" value="" style="startArrow=none;endArrow=block;exitX=0.16;exitY=1;entryX=0.5;entryY=0;rounded=0;orthogonal=1;edgeStyle=orthogonalEdgeStyle;strokeWidth=1;fontSize=18;" edge="1" parent="1" source="l-IGr21ZMGLG-8YQM3oT-4" target="l-IGr21ZMGLG-8YQM3oT-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="l-IGr21ZMGLG-8YQM3oT-19" value="" style="startArrow=none;endArrow=block;exitX=0.85;exitY=1;entryX=0.5;entryY=0;rounded=0;orthogonal=1;edgeStyle=orthogonalEdgeStyle;strokeWidth=1;fontSize=18;" edge="1" parent="1" source="l-IGr21ZMGLG-8YQM3oT-4" target="l-IGr21ZMGLG-8YQM3oT-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
